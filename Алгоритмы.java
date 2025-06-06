@@ -1,4 +1,4 @@
-
+// 1 вариант 1 эссе
 import java.util.Scanner;
 
 public class Main {
