@@ -1,4 +1,4 @@
-// 1 вариант 2 эссе 
+// 1 вариант 3 эссе 
 
 import java.util.Scanner;
 
